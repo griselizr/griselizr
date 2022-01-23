@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @griselizr
 - 👀 I’m interested in books, series, music, food
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on the tech world
 - 📫 How to reach me ? slack or discord :)
 
