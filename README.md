@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @griselizr
+👋 Hi, I’m @griselizr
 - 👀 I’m interested in books, series, music, food
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on the tech world
@@ -8,3 +8,5 @@
 griselizr/griselizr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
