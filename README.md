@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Griseliz Ramos Crespo</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-
-
 <ul>
 👋 Hi, I’m @griselizr
 - 👀 I’m interested in books, series, music, food
