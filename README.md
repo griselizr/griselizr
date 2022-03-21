@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=griselizr&label=Profile%20views&color=0e75b6&style=flat" alt="griselizr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=griselizr" alt="griselizr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=griselizr" \
 <ul>
 👋 Hi, I’m @griselizr
 - 👀 I’m interested in books, series, music, food
