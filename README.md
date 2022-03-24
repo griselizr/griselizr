@@ -6,7 +6,7 @@
 </div>
 
 <ul>
-<h2> Hi💜, I’m @griselizr </h2>
+<h2> 💜 About Me </h2>
   <p> 
 <li>👀 I’m interested in books, series, music, food </li>
 <li>🌱 I’m currently learning how to code</li>
