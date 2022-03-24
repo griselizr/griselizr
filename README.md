@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Griseliz Ramos Crespo</h1>
+<h1 align="center">Hi:cherry_blossom:, I'm <i>Griseliz Ramos Crespo</i></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=griselizr&label=Profile%20views&color=0e75b6&style=flat" alt="griselizr" /> </p>
 <h3 align="center">Aspiring Software Engineer</h3>
 <div id="header" align="center">
