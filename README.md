@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Griseliz Ramos Crespo</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=griselizr&label=Profile%20views&color=0e75b6&style=flat" alt="griselizr" /> </p>
 <h3 align="center">Aspiring Software Engineer</h3>
-<p align="center">
-<a href="https://www.vecteezy.com/vector-art/966128-purple-city-skyline-in-front-of-full-yellow-moon">Purple City Skyline in Front of Full Yellow Moon Vectors by Vecteezy</a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1uLQUtPLbJMQ0/giphy.gif" width="500"/>
+</div>
 
-</p>
+<div>
 <ul>
 👋 Hi, I’m @griselizr
-- 👀 I’m interested in books, series, music, food
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on the tech world
-- 📫 How to reach me ? slack or discord :)
-  </ul>
+  <li>- 👀 I’m interested in books, series, music, food </li>
+<li>-- 🌱 I’m currently learning how to code<li>-
+<li>-- 💞️ I’m looking to collaborate on the tech world<li>-
 
 <!---
 griselizr/griselizr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=griselizr&" alt="griselizr" /></p>
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=griselizr&show_icons=true&locale=en" alt="griselizr" /></p>
