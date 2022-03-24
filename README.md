@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Griseliz Ramos Crespo</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
+<p align="center">
+<a href="https://www.vecteezy.com/vector-art/966128-purple-city-skyline-in-front-of-full-yellow-moon">Purple City Skyline in Front of Full Yellow Moon Vectors by Vecteezy</a>
 
+</p>
 <ul>
 👋 Hi, I’m @griselizr
 - 👀 I’m interested in books, series, music, food
