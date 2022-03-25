@@ -1,6 +1,7 @@
-<h1 align="center">Hi:cherry_blossom:, I'm <i>Griseliz Ramos Crespo</i></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=griselizr&label=Profile%20views&color=0e75b6&style=flat" alt="griselizr" /> </p>
-<h1 align="center"> Aspiring Software Engineer</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=griselizr&label=Profile%20views&color=0e75b6&style=flat" alt="griselizr" /> </p>
+<h1 align="center">Hi:cherry_blossom:, I'm <i>Griseliz Ramos Crespo:gem:</i></h1>
+
+<h2 align="center">:stars: Aspiring Software Engineer :stars:</h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CQl0tM5gYyqQg/giphy.gif" height="400" width="4000"/>
 </div>
@@ -13,6 +14,7 @@
 <li> 💞️ I’m looking to collaborate on the tech world</li>
     </ul>
 </p>
+
 <h2>:computer:Current Stats</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=griselizr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
