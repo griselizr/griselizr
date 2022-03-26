@@ -1,11 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=griselizr&label=Profile%20views&color=0e75b6&style=flat" alt="griselizr" /> </p>
 <h1 align="center">Hi:cherry_blossom:, I'm <i>Griseliz Ramos Crespo:gem:</i></h1>
-
-<h2 align="center">:stars: A future female Software Engineer :stars:</h2>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/CQl0tM5gYyqQg/giphy.gif" height="400" width="4000"/>
-</div>
-
 <ul>
 <h2> 💜 About Me </h2>
 <li> 👀 I’m interested in books, series, music, food </li>
@@ -13,7 +7,10 @@
 <li> 💞️ I’m looking to collaborate on the tech world</li>
 </ul>
 
-
+<h2 align="center">:stars: A future female Software Engineer :stars:</h2>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CQl0tM5gYyqQg/giphy.gif" height="400" width="4000"/>
+</div>
 <h2 align="left">:computer:Current Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=griselizr&theme=omni&hide_border&show_icons=true&locale=en&layout=compact" alt="griselizr" /></p>
 
