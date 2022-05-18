@@ -3,7 +3,7 @@
 <ul>
 <h2> 💜 About Me </h2>
 <li> 👀 I’m interested in books, series, music, food </li>
-<li>🌱 I’m currently learning how to code</li>
+<li>🌱 I’m currently learning how to code and to not overthink</li>
 <li> 💞️ I’m looking to collaborate on the tech world</li>
 </ul>
 
