@@ -11,10 +11,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CQl0tM5gYyqQg/giphy.gif" height="400" width="4000"/>
 </div>
-<h2 align="left">:computer:Current Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=griselizr&theme=omni&hide_border&show_icons=true&locale=en&layout=compact" alt="griselizr" /></p>
+<h1 align="left">:computer:Current Stats</h1>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=griselizr&theme=omni&hide_border&show_icons=true&locale=en&layout=compact" alt="griselizr" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=griselizr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt" alt="griselizr"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=griselizr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt" alt="griselizr"/></p>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=griselizr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
