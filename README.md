@@ -20,7 +20,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=griselizr&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 ![](./profile-3d-contrib/profile-night-view.svg)
 <h3 align="left">Languages and Tools:</h3>
-
-  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-  
-  ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=C)
+<p>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<img src= "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60"> 
+  </p>
