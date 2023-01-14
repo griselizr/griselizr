@@ -11,8 +11,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CQl0tM5gYyqQg/giphy.gif" height="400" width="800"/>
 </div>
-<h1 align="center">:computer:Current Stats</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=griselizr&theme=omni&hide_border&show_icons=true&locale=en&layout=compact" alt="griselizr" /></p>
+<h1 align="right">:computer:Current Stats</h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=griselizr&theme=omni&hide_border&show_icons=true&locale=en&layout=compact" alt="griselizr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=griselizr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt" alt="griselizr"/></p>
 
@@ -25,4 +25,7 @@
 <img src= "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60"> 
+<img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="140">
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="140">
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" width="140">
   </p>
