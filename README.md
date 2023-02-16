@@ -11,7 +11,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CQl0tM5gYyqQg/giphy.gif" height="400" width="800"/>
 </div>
-<h1 align="right">:computer:Current Stats</h1>
+<h1 align="center">:computer:Current Stats</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=griselizr&theme=omni&hide_border&show_icons=true&locale=en&layout=compact" alt="griselizr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=griselizr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt" alt="griselizr"/></p>
