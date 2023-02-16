@@ -28,4 +28,5 @@
 <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="140">
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="140">
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" width="140">
+<img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" width"140">
   </p>
