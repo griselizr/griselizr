@@ -6,7 +6,9 @@
 <h4>🌱 I’m currently learning how to code and to not overthink</h4>
 <h4> 💞️ I’m looking to collaborate on the tech world and make an impact in my life before the rest of the world</h4>
 </ul>
-
+-------------------------------------------
+<A HREF="https://docs.google.com/document/d/1mJWDd7XbQe8CBP6rTHMRT6dc3P4pIpkXgFdSZDKWJz8/edit?usp=sharing#glossary">
+------------------------------------------
 <h2 align="center">:stars: A future female Software Engineer :stars:</h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CQl0tM5gYyqQg/giphy.gif" height="400" width="800"/>
