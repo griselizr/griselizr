@@ -6,12 +6,12 @@
 <h4>🌱 I’m currently celebrating my graduation </h4>
 <h4> 💞️ I’m looking to collaborate on the tech world and make an impact in my life before the rest of the world</h4>
 </ul>
--------------------------------------------
+
  <a href="https://github.com/griselizr/Resume/blob/4c5be97efe49f1a54636ceaf919791726e974967/GriselizResume.pdf">
-      <img alt="Resume" src="" width=150" height="70">
+      <img align="center" src="https://img.icons8.com/cotton/2x/papers.png" width="150" height="70">
    </a>
 <a href ="https://github.com/griselizr/Resume/blob/4c5be97efe49f1a54636ceaf919791726e974967/GriselizResume.pdf" </a>
--------------------------------------------- 
+ 
 <h2 align="center">:stars: A future female Software Engineer :stars:</h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CQl0tM5gYyqQg/giphy.gif" height="400" width="800"/>
