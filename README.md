@@ -1,9 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=griselizr&label=Profile%20views&color=0e75b6&style=flat" alt="griselizr" /> </p>
-<h1 align="center">Hi:cherry_blossom:, I'm <i>Griseliz Ramos Crespo:gem:</i></h1>
+<h1 align="center">Hi, I'm <i>Griseliz Ramos Crespo:gem:</i></h1>
 <ul>
-<h2> 💜 About Me </h2>
+<h2 align="center"> About Me </h2>
 <h4> 👀 I’m interested in books, series, music, food </h4>
-<h4>🌱 I’m currently celebrating my graduation </h4>
+<h4>🌱 I’m currently working on projects </h4>
 <h4> 💞️ I’m looking to collaborate on the tech world and make an impact in my life before the rest of the world</h4>
 </ul>
 
@@ -36,4 +36,5 @@
 <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" width"140">
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width"140">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width"140">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width"140">
   </p>
