@@ -1,9 +1,4 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=griselizr&label=Profile%20views&color=0e75b6&style=flat" alt="griselizr" /> </p>
-<h3> Resume </h3>
- <a href="https://github.com/griselizr/Resume/blob/4c5be97efe49f1a54636ceaf919791726e974967/GriselizResume.pdf">
-      <img align="center" src="https://img.icons8.com/cotton/2x/papers.png" width="80" height="80">
-   </a>
-<a href ="https://github.com/griselizr/Resume/blob/4c5be97efe49f1a54636ceaf919791726e974967/GriselizResume.pdf" </a>
 <h1 align="center">Hi, I'm <i>Griseliz Ramos Crespo:gem:</i></h1>
 <ul>
  
@@ -37,4 +32,9 @@
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width"140">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width"140">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width"140">
+ <h3> Resume </h3>
+ <a href="https://github.com/griselizr/Resume/blob/4c5be97efe49f1a54636ceaf919791726e974967/GriselizResume.pdf">
+      <img align="center" src="https://img.icons8.com/cotton/2x/papers.png" width="80" height="80">
+   </a>
+<a href ="https://github.com/griselizr/Resume/blob/4c5be97efe49f1a54636ceaf919791726e974967/GriselizResume.pdf" </a>
   </p>
