@@ -7,6 +7,9 @@
 <h4> 💞️ I’m looking to collaborate on the tech world and make an impact in my life before the rest of the world</h4>
 </ul>
 -------------------------------------------
+ <a href="https://github.com/griselizr/Resume/blob/4c5be97efe49f1a54636ceaf919791726e974967/GriselizResume.pdf">
+      <img alt="Resume" src="" width=150" height="70">
+   </a>
 <a href ="https://github.com/griselizr/Resume/blob/4c5be97efe49f1a54636ceaf919791726e974967/GriselizResume.pdf" </a>
 -------------------------------------------- 
 <h2 align="center">:stars: A future female Software Engineer :stars:</h2>
