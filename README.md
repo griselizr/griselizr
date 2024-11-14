@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=griselizr&label=Profile%20views&color=0e75b6&style=flat" alt="griselizr" /> </p>
-<h1 align="center">Hi, I'm <i>Griseliz Ramos Crespo:gem:</i></h1>
+<h1 align="center">Hi, I'm <i>Griseliz Ramos Crespo 💎 </i></h1>
 <ul>
  
 <h2 👩‍💻 align="left"> About Me </h2>
